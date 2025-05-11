@@ -1,5 +1,5 @@
 # Interview FAQs
--- LinkedIn --
+## LinkedIn
 1. Tell me about yourself.
 2. What is your greatest strength?
 3. What is your greatest weakness?
@@ -25,8 +25,8 @@
 23. Tell me about a time you surpassed people’s expectations.
 24. Tell me about a time you had to handle pressure.
 25. Tell me about a time you had to learn something quickly.
-26. Do you have any questions for me?
--- On top of my head --
+26. 26. Do you have any questions for me?
+## On top of my head
 27. Why this role?
 28. What motivates you?
 29. Strengths & weakness?
