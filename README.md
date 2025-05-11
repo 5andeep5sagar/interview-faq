@@ -1,4 +1,5 @@
 # Interview FAQs
+-- LinkedIn --
 1. Tell me about yourself.
 2. What is your greatest strength?
 3. What is your greatest weakness?
@@ -25,3 +26,11 @@
 24. Tell me about a time you had to handle pressure.
 25. Tell me about a time you had to learn something quickly.
 26. Do you have any questions for me?
+-- On top of my head --
+27. Why this role?
+28. What motivates you?
+29. Strengths & weakness?
+30. Example of how you solved a problem a complex tech problem?
+31. How you manage people conflict of interest?
+32. What were the key challenges in your recent project and how did you over come?
+33. And not forget the famous - tell me about yourself :)
